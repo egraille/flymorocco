@@ -1,26 +1,27 @@
 <!DOCTYPE html>
 <html  >
 <head>
-  <!-- Site made with Mobirise Website Builder v5.1.4, https://mobirise.com -->
+  <!-- Site made with Mobirise Website Builder v5.3.5, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v5.1.4, mobirise.com">
+  <meta name="generator" content="Mobirise v5.3.5, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/mbr-119x95.png" type="image/x-icon">
-  <meta name="description" content="Site Creator Description">
+  <link rel="shortcut icon" href="assets/images/flymoroccosquare-152x151.png" type="image/x-icon">
+  <meta name="description" content="Travel information to Morocco. Things to consider for your paragliding Moroccan trip">
   
   
-  <title>Nid d'Aigle</title>
+  <title>Tavelling Information</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/web/assets/gdpr-plugin/gdpr-styles.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="assets/datatables/data-tables.bootstrap4.min.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"></noscript>
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
@@ -44,7 +45,7 @@
 
 
   
-  <section class="menu cid-sasDp83Nwl" once="menu" id="menu2-3w">
+  <section class="menu cid-s4OwYtGhKP" once="menu" id="menu2-1h">
 
     
 
@@ -61,7 +62,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     
-                        <img src="assets/images/mbr-119x95.png" alt="" title="" style="height: 3.8rem;">
+                        <a href="index.html"><img src="assets/images/flymoroccosquare-152x151.png" alt="Flymorocco" title="" style="height: 3.8rem;"></a>
                     
                 </span>
                 
@@ -79,159 +80,62 @@
     </nav>
 </section>
 
-<section class="cid-sasDp9823A" id="image2-3x">
+<section class="header1 cid-sdXOeK4Msg mbr-parallax-background" id="header1-4x">
 
     
 
-    <figure class="mbr-figure">
-        <div class="image-block" style="width: 100%;">
-            <img src="assets/images/preview.jpg" alt="Ait Ourir" title="">
-            <figcaption class="mbr-figure-caption mbr-figure-caption-over">
-                <div class="pb-5 px-3 mbr-white align-center mbr-fonts-style display-1">
-                    Nid d'Aigle</div>
-            </figcaption>
-        </div>
-    </figure>
-</section>
-
-<section class="cid-sasDp9GLWQ" id="image4-3y">
-    <!-- Block parameters controls (Blue "Gear" panel) -->
     
-    <!-- End block parameters -->
-    <div class="container images-container">
-            <div class="media-container-row" style="width: 80%;">
-                <div class="img-item item1" style="width: 177%;">
-                    <img src="assets/images/background1.jpg" alt="" title="">
-                    
-                </div>
-                <div class="img-item">
-                    <img src="assets/images/background5.jpg" alt="" title="">
-                    
-                </div>
+
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-1">
+                    Travelling Info</h1>
+                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-2">Travelling to Morocco</h3>
+                <p class="mbr-text align-center pb-3 mbr-fonts-style display-5">
+                    All the information you need to consider to travel to Morocco. Update on Covid-19</p>
+                
             </div>
+        </div>
     </div>
+
 </section>
 
-<section class="mbr-section article content3 cid-sasDpaj7te" id="content3-3z">
-      
+<section class="mbr-section article content9 cid-sdY8PPARuF" id="content9-4z">
+    
      
 
     <div class="container">
-        <div class="media-container-row">
-            <div class="row col-12 col-md-12">
-                <div class="col-12 mbr-text mbr-fonts-style display-5 col-md-6">
-                     <p><br></p>
-                </div>
-                <div class="col-12 mbr-text mbr-fonts-style display-7 col-md-6">
-                     <p><br></p>
-                </div>
-                
-            </div>
+        <div class="inner-container" style="width: 91%;">
+            <hr class="line" style="width: 25%;">
+            <div class="section-text align-center mbr-fonts-style display-5"><strong>
+                    COVID-19 UPDATE</strong><br>Morocco is in a state of emergency. Masks must be worn in public places.<br>Travels are allowed following specific requirements detailed below.<br></div>
+            <hr class="line" style="width: 25%;">
         </div>
-    </div>
+        </div>
 </section>
 
-<section class="section-table cid-sasDpb1gTr" id="table1-40">
-
-  
-  
-  <div class="container container-table">
-      
-      
-      <div class="table-wrapper">
-        <div class="container">
-          
-        </div>
-
-        <div class="container scroll">
-          <table class="table" cellspacing="0" data-empty="No matching records found">
-            <thead>
-              <tr class="table-heads ">
-                  
-                  
-                  
-                  
-              <th class="head-item mbr-fonts-style display-7">
-                      Site Latitude:&nbsp;</th><th class="head-item mbr-fonts-style display-7">
-                      Heigh ASL (m):&nbsp;<span style="font-weight: normal;">&nbsp;m</span></th></tr>
-            </thead>
-
-            <tbody>
-              
-              
-              
-              
-            <tr> 
-                
-                
-                
-                
-              <td class="body-item mbr-fonts-style display-7"><strong>Site Longitude:&nbsp;</strong></td><td class="body-item mbr-fonts-style display-7"><strong>Height ASL (ft):&nbsp;</strong>ft</td></tr><tr> 
-                
-                
-                
-                
-              <td class="body-item mbr-fonts-style display-7"><strong>Wind Direction: </strong>W-N</td><td class="body-item mbr-fonts-style display-7"><strong>Height Top to Bottom (m):&nbsp;</strong>&nbsp;m</td></tr><tr> 
-                
-                
-                
-                
-              <td class="body-item mbr-fonts-style display-7"><strong>Best Direction: </strong>NW</td><td class="body-item mbr-fonts-style display-7"><strong>Height Top to Bottom (ft): </strong>&nbsp;ft</td></tr></tbody>
-          </table>
-        </div>
-        <div class="container table-info-container">
-          
-        </div>
-      </div>
-    </div>
-</section>
-
-<section class="mbr-section article content12 cid-sasDpc1j6P" id="content12-41">
+<section class="mbr-section article content11 cid-sdYavDieYX" id="content11-51">
      
 
     <div class="container">
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style display-7">
-                <ul>
-                    <li><strong>TAKE-OFF</strong> -&nbsp;</li>
-                    <li><strong>LANDING</strong> -&nbsp;</li>
-                    <li><strong>FLYING</strong> -&nbsp;</li><li><strong>HAZARDS</strong> -&nbsp;</li>
-                </ul>
+                <ol>
+                    <li><strong>Negative PCR test</strong>&nbsp;of 72 hours prior departure date</li><li><strong>Hotel reservation</strong>&nbsp;OR <strong>invitation from a Moroccan company</strong></li>
+                </ol>
             </div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section article content10 cid-sasDpclPAo" id="content10-42">
+<section class="mbr-section article content1 cid-sdYcA8vTHy" id="content1-53">
     
      
 
     <div class="container">
-        <div class="inner-container" style="width: 66%;">
-            <hr class="line" style="width: 25%;">
-            <div class="section-text align-center mbr-white mbr-fonts-style display-5"><strong>
-                    EMERGENCY INFO</strong><br><strong>Ambulance's number:&nbsp;<br>Gendarme's number<br>Nearest hospital:&nbsp;</strong></div>
-            <hr class="line" style="width: 25%;">
-        </div>
-    </div>
-</section>
-
-<section class="mbr-section info1 cid-sasDpcFFQC" id="info1-43">
-
-    
-
-    
-    <div class="container">
-        <div class="row justify-content-center content-row">
-            <div class="media-container-column title col-12 col-lg-7 col-md-6">
-                <h3 class="mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style display-5">
-                    Back to the main page</h3>
-                <h2 class="align-left mbr-bold mbr-fonts-style display-2">
-                    Moroccan sites</h2>
-            </div>
-            <div class="media-container-column col-12 col-lg-3 col-md-4">
-                <div class="mbr-section-btn align-right py-4"><a class="btn btn-primary display-4" href="atlas.html">FLYING SITES</a></div>
-            </div>
+        <div class="media-container-row">
+            <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8"><p><strong>Morocco</strong>&nbsp;is a gateway to Africa and a country of dizzying diversity. Here you'll find epic mountain ranges, ancient cities, sweeping deserts – and warm hospitality.</p><p>Following your nationality, <strong>visa</strong> will be automatically granted at the border for 90 days. Consult the Moroccan Embassy of your home country for more informations.&nbsp;</p><p>No specific <strong>vaccins</strong> are required in this country.</p><p><strong>Tap water</strong> is drinkable in big cities but in countryside and villages, it is often coming from local streams without treatments. It is advised to consume bottled water while being in the countryside.</p><p><strong>Dress code</strong> - the dress code is particularly relaxed, included for woman. Morocco is very open to tourism and locals are used to see different outfits especially in touristic places. The only exception will be when visiting sacred and religious places where there'll be a stricter dress code where both men and women need to cover up.</p></div>
         </div>
     </div>
 </section>
@@ -294,7 +198,7 @@
             </div>
         </div>
     </div>
-</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/k" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">Create your own <a href="https://mobirise.site/y" style="color:#aaa;">site</a> with Mobirise</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/datatables/jquery.data-tables.min.js"></script>  <script src="assets/datatables/data-tables.bootstrap4.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/b" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/d" style="color:#aaa;">This site</a> was designed with Mobirise</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/parallax/jarallax.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
   
   
 </body>

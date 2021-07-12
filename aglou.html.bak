@@ -1,26 +1,27 @@
 <!DOCTYPE html>
 <html  >
 <head>
-  <!-- Site made with Mobirise Website Builder v5.1.4, https://mobirise.com -->
+  <!-- Site made with Mobirise Website Builder v5.3.5, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v5.1.4, mobirise.com">
+  <meta name="generator" content="Mobirise v5.3.5, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/mbr-119x95.png" type="image/x-icon">
-  <meta name="description" content="Site Creator Description">
+  <link rel="shortcut icon" href="assets/images/flymoroccosquare-152x151.png" type="image/x-icon">
+  <meta name="description" content="Paragliding Site Description for Aglou">
   
   
-  <title>Plage Blanche</title>
+  <title>Aglou</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/web/assets/gdpr-plugin/gdpr-styles.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/datatables/data-tables.bootstrap4.min.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"></noscript>
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
@@ -44,7 +45,7 @@
 
 
   
-  <section class="menu cid-sasFqNf72T" once="menu" id="menu2-46">
+  <section class="menu cid-sasDnARcD7" once="menu" id="menu2-3n">
 
     
 
@@ -61,7 +62,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     
-                        <img src="assets/images/mbr-119x95.png" alt="" title="" style="height: 3.8rem;">
+                        <a href="index.html"><img src="assets/images/flymoroccosquare-152x151.png" alt="Flymorocco" title="" style="height: 3.8rem;"></a>
                     
                 </span>
                 
@@ -79,40 +80,40 @@
     </nav>
 </section>
 
-<section class="cid-sasFqPJZX7" id="image2-47">
+<section class="cid-sasDnCp3Oa" id="image2-3o">
 
     
 
     <figure class="mbr-figure">
         <div class="image-block" style="width: 100%;">
-            <img src="assets/images/preview.jpg" alt="Ait Ourir" title="">
+            <img src="assets/images/20160227153357-2014x1343.jpeg" alt="Ait Ourir" title="">
             <figcaption class="mbr-figure-caption mbr-figure-caption-over">
                 <div class="pb-5 px-3 mbr-white align-center mbr-fonts-style display-1">
-                    Plage Blanche</div>
+                    Aglou</div>
             </figcaption>
         </div>
     </figure>
 </section>
 
-<section class="cid-sasFqQBI5H" id="image4-48">
+<section class="cid-sasDnDbMle" id="image4-3p">
     <!-- Block parameters controls (Blue "Gear" panel) -->
     
     <!-- End block parameters -->
     <div class="container images-container">
             <div class="media-container-row" style="width: 80%;">
                 <div class="img-item item1" style="width: 177%;">
-                    <img src="assets/images/background1.jpg" alt="" title="">
+                    <img src="assets/images/20160227160542-901x601.jpg" alt="" title="">
                     
                 </div>
                 <div class="img-item">
-                    <img src="assets/images/background5.jpg" alt="" title="">
+                    <img src="assets/images/20160227160138-522x348.jpg" alt="" title="">
                     
                 </div>
             </div>
     </div>
 </section>
 
-<section class="mbr-section article content3 cid-sasFqRzjOa" id="content3-49">
+<section class="mbr-section article content3 cid-sasDnDY5So" id="content3-3q">
       
      
 
@@ -131,7 +132,7 @@
     </div>
 </section>
 
-<section class="section-table cid-sasFqSnFFE" id="table1-4a">
+<section class="section-table cid-sasDnEt8FJ" id="table1-3r">
 
   
   
@@ -186,7 +187,7 @@
     </div>
 </section>
 
-<section class="mbr-section article content12 cid-sasFqTZkEX" id="content12-4b">
+<section class="mbr-section article content12 cid-sasDnFEYAv" id="content12-3s">
      
 
     <div class="container">
@@ -202,7 +203,7 @@
     </div>
 </section>
 
-<section class="mbr-section article content10 cid-sasFqUqlua" id="content10-4c">
+<section class="mbr-section article content10 cid-sasDnG0CAv" id="content10-3t">
     
      
 
@@ -216,7 +217,7 @@
     </div>
 </section>
 
-<section class="mbr-section info1 cid-sasFqURE3z" id="info1-4d">
+<section class="mbr-section info1 cid-sasDnGlG6M" id="info1-3u">
 
     
 
@@ -294,7 +295,7 @@
             </div>
         </div>
     </div>
-</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/o" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">Site was <a href="https://mobirise.site/g" style="color:#aaa;">built</a> with Mobirise</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/datatables/jquery.data-tables.min.js"></script>  <script src="assets/datatables/data-tables.bootstrap4.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/t" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/d" style="color:#aaa;">This page</a> was started with Mobirise</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/datatables/jquery.data-tables.min.js"></script>  <script src="assets/datatables/data-tables.bootstrap4.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
   
   
 </body>

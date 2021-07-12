@@ -7,10 +7,10 @@
   <meta name="generator" content="Mobirise v5.3.5, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/flymoroccosquare-152x151.png" type="image/x-icon">
-  <meta name="description" content="Web Page Builder Description">
+  <meta name="description" content="About Flymorocco Team - a team of passionate professional paragliding pilots">
   
   
-  <title>Mid Atlas Tour</title>
+  <title>About Flymorocco</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
@@ -44,7 +44,7 @@
 
 
   
-  <section class="menu cid-s4OwYtGhKP" once="menu" id="menu2-2d">
+  <section class="menu cid-s4OwYtGhKP" once="menu" id="menu2-1o">
 
     
 
@@ -79,25 +79,68 @@
     </nav>
 </section>
 
-<section class="header1 cid-sadU06HqmU" id="header16-2f">
+<section class="mbr-section content5 cid-s6jTSXsHCh mbr-parallax-background" id="content5-1p">
 
     
 
     
 
     <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="col-md-10 align-center">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-1">
+                    About us</h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style display-5">The team behind Flymorocco</h3>
                 
                 
-                <p class="mbr-text pb-3 mbr-fonts-style display-5">
-                    Organised tour</p>
-                <div class="mbr-section-btn"><a class="btn btn-md btn-black-outline display-4" href="https://mobiri.se">LEARN MORE</a>
-                </div>
             </div>
         </div>
     </div>
+</section>
 
+<section class="testimonials3 cid-s6jUuOzzPT" id="testimonials3-1q">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="media-content px-3 align-self-center mbr-white py-2">
+                <p class="mbr-text testimonial-text mbr-fonts-style display-7"><span style="font-style: normal;">I run Flymorocco following my passions of paragliding and Morocco. I fly tandems in Morocco with <a href="https://www.flymarrakech.ma" class="text-primary" target="_blank">Flymarrakech</a> in Aguergour.&nbsp;<br>I am a French Paragliding Instructor recognised by the British Hangliding and Paragliding Association.<br><br>I left my Environmental Engineer job to get into paragliding and live &amp; travel in my van named Toto in 2019.&nbsp;</span><br><br><span style="font-style: normal;">I LOVE taking pictures and videos. This site is full of my pictures. I have my <a href="https://www.instagram.com/emigraille" target="_blank">personal instagram</a> account where I get to post other content than paragliding, like van conversion.&nbsp;</span><br></p>
+                <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7">
+                   Emilie</p>
+                <p class="mbr-author-desc mbr-fonts-style display-7">
+                   Paragliding Instructor &amp; Coach</p>
+            </div>
+
+            <div class="mbr-figure pl-lg-5" style="width: 130%;">
+              <img src="assets/images/img-20210306-102648-983-720x900.jpg" alt="" title="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="testimonials2 cid-sa4R5vK57A" id="testimonials2-28">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-figure pr-lg-5" style="width: 130%;">
+              <img src="assets/images/20210410122641-1-2-958x1196.jpg" alt="Anir" title="">
+            </div>
+            <div class="media-content px-3 align-self-center mbr-white py-2">
+                    <p class="mbr-text testimonial-text mbr-fonts-style display-7"><span style="font-style: normal;">Berber to the core, paragliding is my middle name. I am a local pilot to Aguergour. My favorite game in the air is thermal flying. I enjoy the thrill of getting high and the freedom of gliding around.</span><br><br><span style="font-style: normal;">I gave up my job as a carpenter to follow my dreams to work in the touristic sector, and more specifically for paragliding pilots. I now fly tandems with <a href="https://www.flymarrakech.ma" class="text-primary" target="_blank">Flymarrakech</a> team.</span><br><br><span style="font-style: normal;">Photographer at times, I take videos and pictures that I post on my personal&nbsp;<a href="https://www.instagram.com/fly_with_anir/" class="text-primary" target="_blank">instagram</a> and <a href="https://web.facebook.com/Atlas-eagles-paragliding-103260551388736/" class="text-primary" target="_blank">facebook</a>.</span><br></p>
+                    <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7">
+                       Anir&nbsp;</p>
+                    <p class="mbr-author-desc mbr-fonts-style display-7">
+                       Thermal lover</p>
+            </div>
+        </div>
+    </div>
 </section>
 
 <section once="footers" class="cid-sdRl3worc6" id="footer7-4t">
@@ -158,7 +201,7 @@
             </div>
         </div>
     </div>
-</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/l" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">Create your own site - <a href="https://mobirise.site/v" style="color:#aaa;">Try here</a></p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/q" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">This <a href="https://mobirise.site/e" style="color:#aaa;">page</a> was started with Mobirise</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/parallax/jarallax.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
   
   
 </body>

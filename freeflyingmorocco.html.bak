@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html  >
 <head>
-  <!-- Site made with Mobirise Website Builder v5.1.4, https://mobirise.com -->
+  <!-- Site made with Mobirise Website Builder v5.3.5, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v5.1.4, mobirise.com">
+  <meta name="generator" content="Mobirise v5.3.5, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/mbr-119x95.png" type="image/x-icon">
-  <meta name="description" content="Paragliding flights around the atlas">
+  <link rel="shortcut icon" href="assets/images/flymoroccosquare-152x151.png" type="image/x-icon">
+  <meta name="description" content="Paragliding sites around Morocco.">
   
   
-  <title>Free flying in Atlas sites</title>
+  <title>Free flying in Morocco</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/web/assets/gdpr-plugin/gdpr-styles.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/datatables/data-tables.bootstrap4.min.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"></noscript>
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
@@ -60,7 +62,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     
-                        <img src="assets/images/mbr-119x95.png" alt="" title="" style="height: 3.8rem;">
+                        <a href="index.html"><img src="assets/images/flymoroccosquare-152x151.png" alt="Flymorocco" title="" style="height: 3.8rem;"></a>
                     
                 </span>
                 
@@ -136,7 +138,7 @@
         <div class="media-container-row title">
             <div class="col-12 col-md-8">
                 <div class="mbr-section-btn align-center"><a class="btn btn-primary display-4" href="rules.html">FREE FLYING RULES</a>
-                    <a class="btn btn-black-outline display-4" href="contact.html">CONTACT</a></div>
+                    <a class="btn btn-secondary-outline display-4" href="contact.html">CONTACT</a></div>
             </div>
         </div>
     </div>
@@ -163,184 +165,114 @@
     </div>
 </section>
 
-<section class="services6 cid-sac0MP1ogw" id="services6-2b">
-    <!---->
-    
-    <!---->
-    <!--Overlay-->
-    
-    <!--Container-->
-    <div class="container">
-        <div class="row">
-            <!--Titles-->
-            <div class="title col-12">
-                <h2 class="align-left mbr-fonts-style m-0 display-1">
-                    Site List
-                </h2>
-                <h3 class="mbr-section-subtitle mbr-light mbr-fonts-style display-7">
-                    This site guide only describes each sites in Morocco. The information held on this website should be verified by responsible pilots once on site. We cannot be liaible for any incidents happening based on a missing information. If you witness an incident, you may find more information regarding <a href="emergencies.html" class="text-primary" target="_blank"><strong>emergency cases</strong></a>. If something is missing, please <a href="contact.html" class="text-primary" target="_blank">contact us</a> directly and we will review the information.</h3>
-            </div>
-            <!--Card-1-->
-            <div class="card col-12 pb-5">
-                <div class="card-wrapper media-container-row media-container-row">
-                    <div class="card-box">
-                        <div class="row">
-                            <div class="col-12 col-md-2">
-                                <!--Image-->
-                                <div class="mbr-figure">
-                                    <a href="aguergour.html"><img src="assets/images/20200301183813.jpeg" alt="Aguergour"></a>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-10">
-                                <div class="wrapper">
-                                    <div class="top-line pb-3">
-                                        <h4 class="card-title mbr-fonts-style display-5">
-                                            <a href="aguergour.html" class="text-primary">A</a>ït Ourir</h4>
-                                        <p class="mbr-text cost mbr-fonts-style m-0 display-5"></p>
-                                    </div>
-                                    <div class="bottom-line">
-                                        <p class="mbr-text mbr-fonts-style display-7"></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+<section class="section-table cid-swzj9nc2xB" id="table1-56">
+
+  
+  
+  <div class="container container-table">
+      <h2 class="mbr-section-title mbr-fonts-style align-center pb-3 display-1">
+          Site list</h2>
+      <h3 class="mbr-section-subtitle mbr-fonts-style align-center pb-5 mbr-light display-4">This site guide only describes each sites in Morocco. The information held on this website should be verified by responsible pilots once on site. We cannot be liaible for any incidents happening based on a missing information. If you witness an incident, you may find more information regarding <a href="emergencies.html" class="text-primary"><strong>emergency cases</strong></a>. If something is missing, please <a href="contact.html" class="text-primary">contact us</a> directly and we will review the information.</h3>
+      <div class="table-wrapper">
+        <div class="container">
+          <div class="row search">
+            <div class="col-md-6"></div>
+            <div class="col-md-6">
+                <div class="dataTables_filter">
+                  <label class="searchInfo mbr-fonts-style display-7">Search:</label>
+                  <input class="form-control input-sm" disabled="">
                 </div>
             </div>
-            <!--Card-2-->
-            <div class="card col-12 pb-5">
-                <div class="card-wrapper media-container-row media-container-row">
-                    <div class="card-box">
-                        <div class="row">
-                            <div class="col-12 col-md-2">
-                                <!--Image-->
-                                <div class="mbr-figure">
-                                    <a href="MZouda.html"><img src="assets/images/20160302175746-2000x2000.jpg" alt="M'Zouda"></a>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-10">
-                                <div class="wrapper">
-                                    <div class="top-line pb-3">
-                                        <h4 class="card-title mbr-fonts-style display-5">Aglou</h4>
-                                        <p class="mbr-text cost mbr-fonts-style m-0 display-5"></p>
-                                    </div>
-                                    <div class="bottom-line">
-                                        <p class="mbr-text mbr-fonts-style display-7"></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--Card-3-->
-            <div class="card col-12 pb-5">
-                <div class="card-wrapper media-container-row media-container-row">
-                    <div class="card-box">
-                        <div class="row">
-                            <div class="col-12 col-md-2">
-                                <!--Image-->
-                                <div class="mbr-figure">
-                                    <img src="assets/images/20160302175746-2000x2000.jpg" alt="Mobirise">
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-10">
-                                <div class="wrapper">
-                                    <div class="top-line pb-3">
-                                        <h4 class="card-title mbr-fonts-style display-5">Aguergour</h4>
-                                        <p class="mbr-text cost mbr-fonts-style m-0 display-5"></p>
-                                    </div>
-                                    <div class="bottom-line">
-                                        <p class="mbr-text mbr-fonts-style display-7">The most famous flying site in Morocco, only an hour away from Marrakech.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--Card-4-->
-            <div class="card col-12 pb-5">
-                <div class="card-wrapper media-container-row media-container-row">
-                    <div class="card-box">
-                        <div class="row">
-                            <div class="col-12 col-md-2">
-                                <!--Image-->
-                                <div class="mbr-figure">
-                                    <a href="tizintest.html"><img src="assets/images/20160302175746-2000x2000.jpg" alt="Tizi N'Test"></a>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-10">
-                                <div class="wrapper">
-                                    <div class="top-line pb-3">
-                                        <h4 class="card-title mbr-fonts-style display-5">
-                                            <a href="tizintest.html" class="text-primary">I</a>msouane</h4>
-                                        <p class="mbr-text cost mbr-fonts-style m-0 display-5"></p>
-                                    </div>
-                                    <div class="bottom-line">
-                                        <p class="mbr-text mbr-fonts-style display-7"></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--Card-5-->
-            <div class="card col-12 pb-5">
-                <div class="card-wrapper media-container-row media-container-row">
-                    <div class="card-box">
-                        <div class="row">
-                            <div class="col-12 col-md-2">
-                                <!--Image-->
-                                <div class="mbr-figure">
-                                    <a href="Imsouane.html"><img src="assets/images/20160302175746-2000x2000.jpg" alt="Imsouane"></a>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-10">
-                                <div class="wrapper">
-                                    <div class="top-line pb-3">
-                                        <h4 class="card-title mbr-fonts-style display-5">
-                                            <a href="Imsouane.html" class="text-primary">L</a>egzira</h4>
-                                        <p class="mbr-text cost mbr-fonts-style m-0 display-5"></p>
-                                    </div>
-                                    <div class="bottom-line">
-                                        <p class="mbr-text mbr-fonts-style display-7"></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--Card-6-->
-            <div class="card col-12">
-                <div class="card-wrapper media-container-row media-container-row">
-                    <div class="card-box">
-                        <div class="row">
-                            <div class="col-12 col-md-2">
-                                <!--Image-->
-                                <div class="mbr-figure">
-                                    <a href="aitourir.html"><img src="assets/images/vlcsnap-2020-09-12-17h27m58s511-1-1280x720.png" alt="Ait Ourir"></a>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-10">
-                                <div class="wrapper">
-                                    <div class="top-line pb-3">
-                                        <h4 class="card-title mbr-fonts-style display-5">
-                                            <a href="aitourir.html" class="text-primary">M</a>'zouda</h4>
-                                        <p class="mbr-text cost mbr-fonts-style m-0 display-5"></p>
-                                    </div>
-                                    <div class="bottom-line">
-                                        <p class="mbr-text mbr-fonts-style display-7"></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+          </div>
         </div>
+
+        <div class="container scroll">
+          <table class="table isSearch" cellspacing="0" data-empty="No matching records found">
+            <thead>
+              <tr class="table-heads ">
+                  
+                  
+                  
+                  
+              <th class="head-item mbr-fonts-style display-7">
+                      NAME</th><th class="head-item mbr-fonts-style display-7">SITE TYPE/FLYING DIFFICULTY</th><th class="head-item mbr-fonts-style display-7">
+                      REGION</th></tr>
+            </thead>
+
+            <tbody>
+              
+              
+              
+              
+            <tr> 
+                
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7"><a href="aitourir.html" class="text-primary">Aït Ourir</a></td><td class="body-item mbr-fonts-style display-7">Mountain / Medium</td><td class="body-item mbr-fonts-style display-7">Marrakech</td></tr><tr>
+                
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7"><a href="aglou.html" class="text-primary">Aglou</a></td><td class="body-item mbr-fonts-style display-7">Coastal / Easy</td><td class="body-item mbr-fonts-style display-7">Agadir</td></tr><tr>
+                
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7"><a href="aguergour.html" class="text-primary">Aguergour</a></td><td class="body-item mbr-fonts-style display-7">Mountain / Easy</td><td class="body-item mbr-fonts-style display-7">Marrakech</td></tr><tr>
+                
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7"><a href="Imsouane.html" class="text-primary">Imsouane</a></td><td class="body-item mbr-fonts-style display-7">Coastal /Easy</td><td class="body-item mbr-fonts-style display-7">Essaouira</td></tr><tr>
+                
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7"><a href="page17.html" class="text-primary">Legzira</a></td><td class="body-item mbr-fonts-style display-7">Coastal / Easy</td><td class="body-item mbr-fonts-style display-7">Sidi Ifni</td></tr><tr>
+                
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7"><a href="MZouda.html" class="text-primary">M'Zouda</a></td><td class="body-item mbr-fonts-style display-7">Mountain / Medium</td><td class="body-item mbr-fonts-style display-7">Marrakech</td></tr><tr>
+                
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7"><a href="page15.html" class="text-primary">Nid d'Aigle</a></td><td class="body-item mbr-fonts-style display-7">Plain / Easy</td><td class="body-item mbr-fonts-style display-7">Agadir</td></tr><tr>
+                
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7"><a href="page16.html" class="text-primary">Plage blanche</a></td><td class="body-item mbr-fonts-style display-7">Coastal-Dune / Easy</td><td class="body-item mbr-fonts-style display-7">Guelmin</td></tr><tr>
+                
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7"><a href="tizintest.html" class="text-primary">Tiz N Test</a></td><td class="body-item mbr-fonts-style display-7">High mountain / Expert</td><td class="body-item mbr-fonts-style display-7">Taroudant</td></tr><tr>
+                
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7">Guigou</td><td class="body-item mbr-fonts-style display-7">Mountain / Easy</td><td class="body-item mbr-fonts-style display-7">Ifrane</td></tr></tbody>
+          </table>
+        </div>
+        <div class="container table-info-container">
+          <div class="row info">
+            <div class="col-md-6">
+              <div class="dataTables_info mbr-fonts-style display-7">
+                <span class="infoBefore">Showing</span>
+                <span class="inactive infoRows"></span>
+                <span class="infoAfter">entries</span>
+                <span class="infoFilteredBefore">(filtered from</span>
+                <span class="inactive infoRows"></span>
+                <span class="infoFilteredAfter"> total entries)</span>
+              </div>
+            </div>
+            <div class="col-md-6"></div>
+          </div>
+        </div>
+      </div>
     </div>
 </section>
 
@@ -402,7 +334,7 @@
             </div>
         </div>
     </div>
-</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/x" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/s" style="color:#aaa;">Site</a> was designed with Mobirise website themes</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/m" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">How to create a free website - <a href="https://mobirise.site/x" style="color:#aaa;">Find more</a></p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/datatables/jquery.data-tables.min.js"></script>  <script src="assets/datatables/data-tables.bootstrap4.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
   
   
 </body>

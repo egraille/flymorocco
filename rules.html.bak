@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html  >
 <head>
-  <!-- Site made with Mobirise Website Builder v5.1.4, https://mobirise.com -->
+  <!-- Site made with Mobirise Website Builder v5.3.5, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v5.1.4, mobirise.com">
+  <meta name="generator" content="Mobirise v5.3.5, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/mbr-119x95.png" type="image/x-icon">
-  <meta name="description" content="Site Creator Description">
+  <link rel="shortcut icon" href="assets/images/flymoroccosquare-152x151.png" type="image/x-icon">
+  <meta name="description" content="Description of the requirements for free flying in Morocco in terms of legal settings. It concerns paragliding, tandem and paramotoring flights. Civil aviation authority, Direction Général de l'aviation civile.">
   
   
-  <title>Tizi N'Test</title>
+  <title>Free flying rules in Morocco</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/web/assets/gdpr-plugin/gdpr-styles.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="assets/datatables/data-tables.bootstrap4.min.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"></noscript>
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
@@ -44,7 +44,7 @@
 
 
   
-  <section class="menu cid-saoxfBVWBD" once="menu" id="menu2-2w">
+  <section class="menu cid-s4OwYtGhKP" once="menu" id="menu2-g">
 
     
 
@@ -61,7 +61,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     
-                        <img src="assets/images/mbr-119x95.png" alt="" title="" style="height: 3.8rem;">
+                        <a href="index.html"><img src="assets/images/flymoroccosquare-152x151.png" alt="Flymorocco" title="" style="height: 3.8rem;"></a>
                     
                 </span>
                 
@@ -79,159 +79,82 @@
     </nav>
 </section>
 
-<section class="cid-saoxfDLdfO" id="image2-2x">
+<section class="header1 cid-s4PcTHd3xZ mbr-parallax-background" id="header16-j">
 
     
 
-    <figure class="mbr-figure">
-        <div class="image-block" style="width: 100%;">
-            <img src="assets/images/preview.jpg" alt="Ait Ourir" title="">
-            <figcaption class="mbr-figure-caption mbr-figure-caption-over">
-                <div class="pb-5 px-3 mbr-white align-center mbr-fonts-style display-1">
-                    Tizi N'Test</div>
-            </figcaption>
-        </div>
-    </figure>
-</section>
-
-<section class="cid-saoxfEDxua" id="image4-2y">
-    <!-- Block parameters controls (Blue "Gear" panel) -->
-    
-    <!-- End block parameters -->
-    <div class="container images-container">
-            <div class="media-container-row" style="width: 80%;">
-                <div class="img-item item1" style="width: 177%;">
-                    <img src="assets/images/background1.jpg" alt="" title="">
-                    
-                </div>
-                <div class="img-item">
-                    <img src="assets/images/background5.jpg" alt="" title="">
-                    
-                </div>
-            </div>
+    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(171, 49, 25);">
     </div>
+
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-md-10 align-center">
+                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">Rules in Morocco</h1>
+                
+                <p class="mbr-text pb-3 mbr-fonts-style display-5">
+                    This section describes the requirements that any visiting pilot would need to meet when entering the Kingdom of Morocco to legally fly here.<br></p>
+                
+            </div>
+        </div>
+    </div>
+
 </section>
 
-<section class="mbr-section article content3 cid-saoxfFQYBm" id="content3-2z">
-      
-     
+<section class="mbr-section content4 cid-s4PdhQJoQq" id="content4-k">
+
+    
 
     <div class="container">
         <div class="media-container-row">
-            <div class="row col-12 col-md-12">
-                <div class="col-12 mbr-text mbr-fonts-style display-5 col-md-6">
-                     <p><br></p>
-                </div>
-                <div class="col-12 mbr-text mbr-fonts-style display-7 col-md-6">
-                     <p><br></p>
-                </div>
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                    Before leaving</h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
+                    In order to fly in Morocco, you need to have an authorisation delivered by the Moroccan Civil Aviation Authority (Direction Générale de l'Aviation Civil).&nbsp;<br>This authorisation will be asked when flown different sites of Morocco, especially in the Atlas.<br><strong>Pre requirements to have the authorisation are detailed below.</strong></h3>
                 
             </div>
         </div>
     </div>
 </section>
 
-<section class="section-table cid-saoxfGjW55" id="table1-30">
-
-  
-  
-  <div class="container container-table">
-      
-      
-      <div class="table-wrapper">
-        <div class="container">
-          
-        </div>
-
-        <div class="container scroll">
-          <table class="table" cellspacing="0" data-empty="No matching records found">
-            <thead>
-              <tr class="table-heads ">
-                  
-                  
-                  
-                  
-              <th class="head-item mbr-fonts-style display-7">
-                      Site Latitude:&nbsp;</th><th class="head-item mbr-fonts-style display-7">
-                      Heigh ASL (m):&nbsp;<span style="font-weight: normal;">&nbsp;m</span></th></tr>
-            </thead>
-
-            <tbody>
-              
-              
-              
-              
-            <tr> 
-                
-                
-                
-                
-              <td class="body-item mbr-fonts-style display-7"><strong>Site Longitude:&nbsp;</strong></td><td class="body-item mbr-fonts-style display-7"><strong>Height ASL (ft):&nbsp;</strong>ft</td></tr><tr> 
-                
-                
-                
-                
-              <td class="body-item mbr-fonts-style display-7"><strong>Wind Direction: </strong>W-N</td><td class="body-item mbr-fonts-style display-7"><strong>Height Top to Bottom (m):&nbsp;</strong>&nbsp;m</td></tr><tr> 
-                
-                
-                
-                
-              <td class="body-item mbr-fonts-style display-7"><strong>Best Direction: </strong>NW</td><td class="body-item mbr-fonts-style display-7"><strong>Height Top to Bottom (ft): </strong>&nbsp;ft</td></tr></tbody>
-          </table>
-        </div>
-        <div class="container table-info-container">
-          
-        </div>
-      </div>
-    </div>
-</section>
-
-<section class="mbr-section article content12 cid-saoxfHClKe" id="content12-31">
+<section class="mbr-section article content11 cid-s4PfYejyIl" id="content11-l">
      
 
     <div class="container">
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style display-7">
-                <ul>
-                    <li><strong>TAKE-OFF</strong> -&nbsp;</li>
-                    <li><strong>LANDING</strong> -&nbsp;</li>
-                    <li><strong>FLYING</strong> -&nbsp;</li><li><strong>HAZARDS</strong> -&nbsp;</li>
-                </ul>
+                <ol>
+                    <li><strong>FILL THE FORMS - </strong>the following forms needs to be filled in and exported in PDF.<br><a href="http://toiles.atlas.free.fr/parapente/images/parapente%20maroc%20annexe%202.doc" target="_blank">Annexe 2</a> needs to be signed<br><a href="http://toiles.atlas.free.fr/parapente/images/parapente%20maroc%20annexe%204.doc" target="_blank">Annexe 4</a></li>
+                    <li><strong>DOCUMENTS TO PROVIDE</strong><span style="font-size: 1rem;">&nbsp;- <br>Copy of the passport<br>Evidence of third party liability<br>Evidence of pilot rating<br>Filled annexes</span></li><li><strong>CONTACT</strong><br>These documents need to be sent to the Direction Général de l'Aviation Civil DGAC (trad. CAA) to the following email address:<br><a href="mailto:dta.transport@gmail.com">dta.transport@gmail.com</a></li><li><strong>DELAY</strong><br>These steps should be made at least <strong>30 days</strong> before the date of the trip. <br><br><strong>IMPORTANT</strong><br>If you don't provide all the documents, your request will be rejected without any warning.&nbsp;<br>You may contact the DGAC to ask where the request has gone but don't expect a prompt answer from their services.&nbsp;</li>
+                </ol>
             </div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section article content10 cid-sapg9x5Py9" id="content10-3i">
+<section class="mbr-section content4 cid-s68XDpwPRz" id="content4-v">
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                    While your stay</h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">You have to inform the local authorities your intention of flying the local site for safety purposes. You will need to show the <strong>authorisation delivered by the DGAC</strong> as well as the other&nbsp;<strong>evidences</strong>&nbsp;as described above. It is also good to demonstrate that you have the contact of local ambulances in case of emergency.&nbsp;</h3>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section article content1 cid-s6dRxUprjF" id="content1-1l">
     
      
 
     <div class="container">
-        <div class="inner-container" style="width: 66%;">
-            <hr class="line" style="width: 25%;">
-            <div class="section-text align-center mbr-white mbr-fonts-style display-5"><strong>
-                    EMERGENCY INFO</strong><br><strong>Ambulance's number:&nbsp;<br>Gendarme's number<br>Nearest hospital:&nbsp;</strong></div>
-            <hr class="line" style="width: 25%;">
-        </div>
-    </div>
-</section>
-
-<section class="mbr-section info1 cid-saoxfHW6WT" id="info1-32">
-
-    
-
-    
-    <div class="container">
-        <div class="row justify-content-center content-row">
-            <div class="media-container-column title col-12 col-lg-7 col-md-6">
-                <h3 class="mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style display-5">
-                    Back to the main page</h3>
-                <h2 class="align-left mbr-bold mbr-fonts-style display-2">
-                    Moroccan sites</h2>
-            </div>
-            <div class="media-container-column col-12 col-lg-3 col-md-4">
-                <div class="mbr-section-btn align-right py-4"><a class="btn btn-primary display-4" href="atlas.html">FLYING SITES</a></div>
-            </div>
+        <div class="media-container-row">
+            <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8"><p>Some area and site of Morocco are more chilled than the others, but if you have followed the procedure as described above, you won't have any problem with the authorities. It is worth asking the local and/or regular pilots of the area, they will help you on the best approach.</p><p>It is recommended to have a copy of all the evidences with you so that you can demonstrate your ability to fly and also the authorisation you get from the general authority, the DGAC.</p></div>
         </div>
     </div>
 </section>
@@ -294,7 +217,7 @@
             </div>
         </div>
     </div>
-</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/p" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">Site was <a href="https://mobirise.site/h" style="color:#aaa;">created with</a> Mobirise</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/datatables/jquery.data-tables.min.js"></script>  <script src="assets/datatables/data-tables.bootstrap4.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/a" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/s" style="color:#aaa;">Page</a> was made with Mobirise website templates</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/parallax/jarallax.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
   
   
 </body>

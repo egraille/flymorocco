@@ -1,26 +1,27 @@
 <!DOCTYPE html>
 <html  >
 <head>
-  <!-- Site made with Mobirise Website Builder v5.1.4, https://mobirise.com -->
+  <!-- Site made with Mobirise Website Builder v5.3.5, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v5.1.4, mobirise.com">
+  <meta name="generator" content="Mobirise v5.3.5, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/mbr-119x95.png" type="image/x-icon">
-  <meta name="description" content="Site Creator Description">
+  <link rel="shortcut icon" href="assets/images/flymoroccosquare-152x151.png" type="image/x-icon">
+  <meta name="description" content="Paragliding Site Description for Aguergour">
   
   
-  <title>M'Zouda</title>
+  <title>Aguergour</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/web/assets/gdpr-plugin/gdpr-styles.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/datatables/data-tables.bootstrap4.min.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"></noscript>
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
@@ -44,7 +45,7 @@
 
 
   
-  <section class="menu cid-saowBVScAT" once="menu" id="menu2-2o">
+  <section class="menu cid-s4OwYtGhKP" once="menu" id="menu2-y">
 
     
 
@@ -61,7 +62,7 @@
             <div class="navbar-brand">
                 <span class="navbar-logo">
                     
-                        <img src="assets/images/mbr-119x95.png" alt="" title="" style="height: 3.8rem;">
+                        <a href="index.html"><img src="assets/images/flymoroccosquare-152x151.png" alt="Flymorocco" title="" style="height: 3.8rem;"></a>
                     
                 </span>
                 
@@ -79,40 +80,40 @@
     </nav>
 </section>
 
-<section class="cid-saowBWTG9R" id="image2-2p">
+<section class="cid-s6dC2KFS95" id="image2-17">
 
     
 
     <figure class="mbr-figure">
         <div class="image-block" style="width: 100%;">
-            <img src="assets/images/preview.jpg" alt="Ait Ourir" title="">
+            <img src="assets/images/20160406170635-2100x1400.jpg" alt="Mobirise" title="">
             <figcaption class="mbr-figure-caption mbr-figure-caption-over">
                 <div class="pb-5 px-3 mbr-white align-center mbr-fonts-style display-1">
-                    M'Zouda</div>
+                    Aguergour</div>
             </figcaption>
         </div>
     </figure>
 </section>
 
-<section class="cid-saowBXEWa4" id="image4-2q">
+<section class="cid-s6dBXBaj6R" id="image4-16">
     <!-- Block parameters controls (Blue "Gear" panel) -->
     
     <!-- End block parameters -->
     <div class="container images-container">
             <div class="media-container-row" style="width: 80%;">
                 <div class="img-item item1" style="width: 177%;">
-                    <img src="assets/images/background1.jpg" alt="" title="">
+                    <img src="assets/images/20200129145914-902x601.jpg" alt="" title="">
                     
                 </div>
                 <div class="img-item">
-                    <img src="assets/images/background5.jpg" alt="" title="">
+                    <img src="assets/images/20191224171849-522x348.jpg" alt="" title="">
                     
                 </div>
             </div>
     </div>
 </section>
 
-<section class="mbr-section article content3 cid-saowBYWXch" id="content3-2r">
+<section class="mbr-section article content3 cid-s6dBR3HlmP" id="content3-15">
       
      
 
@@ -120,10 +121,10 @@
         <div class="media-container-row">
             <div class="row col-12 col-md-12">
                 <div class="col-12 mbr-text mbr-fonts-style display-5 col-md-6">
-                     <p><br></p>
+                     <p>Aguergour is one of the most famous site in Morocco, it is located only an hour away from Marrakech. It is an easy site with a designated take off area and landing zone.</p>
                 </div>
                 <div class="col-12 mbr-text mbr-fonts-style display-7 col-md-6">
-                     <p><br></p>
+                     <p>From Marrakech, take the direction to Lalla Takerkouste. Once in Lalla Takerkouste, you'll need to follow Moulay Brahim/Ouzguita direction.</p><p>Take off is accessible with a 4x4 or a high car but it can steep and tricky to access.</p><p>Two clubs operate on this site, Sky Team and Vol Libre</p>
                 </div>
                 
             </div>
@@ -131,7 +132,7 @@
     </div>
 </section>
 
-<section class="section-table cid-saowBZXufD" id="table1-2s">
+<section class="section-table cid-s9EPrbcyBi" id="table1-22">
 
   
   
@@ -152,8 +153,8 @@
                   
                   
               <th class="head-item mbr-fonts-style display-7">
-                      Site Latitude:&nbsp;</th><th class="head-item mbr-fonts-style display-7">
-                      Heigh ASL (m):&nbsp;<span style="font-weight: normal;">&nbsp;m</span></th></tr>
+                      Site Latitude: <span style="font-weight: normal;">31.29694</span></th><th class="head-item mbr-fonts-style display-7">
+                      Heigh ASL (m):&nbsp;<span style="font-weight: normal;">1320 m</span></th></tr>
             </thead>
 
             <tbody>
@@ -166,17 +167,17 @@
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7"><strong>Site Longitude:&nbsp;</strong></td><td class="body-item mbr-fonts-style display-7"><strong>Height ASL (ft):&nbsp;</strong>ft</td></tr><tr> 
+              <td class="body-item mbr-fonts-style display-7"><strong>Site Longitude: </strong>-8.06532</td><td class="body-item mbr-fonts-style display-7"><strong>Height ASL (ft):&nbsp;</strong>4330 ft</td></tr><tr> 
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7"><strong>Wind Direction: </strong>W-N</td><td class="body-item mbr-fonts-style display-7"><strong>Height Top to Bottom (m):&nbsp;</strong>&nbsp;m</td></tr><tr> 
+              <td class="body-item mbr-fonts-style display-7"><strong>Wind Direction: </strong>W-N</td><td class="body-item mbr-fonts-style display-7"><strong>Height Top to Bottom (m):&nbsp;</strong>520 m</td></tr><tr> 
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7"><strong>Best Direction: </strong>NW</td><td class="body-item mbr-fonts-style display-7"><strong>Height Top to Bottom (ft): </strong>&nbsp;ft</td></tr></tbody>
+              <td class="body-item mbr-fonts-style display-7"><strong>Best Direction: </strong>NW</td><td class="body-item mbr-fonts-style display-7"><strong>Height Top to Bottom (ft): </strong>1706 ft</td></tr></tbody>
           </table>
         </div>
         <div class="container table-info-container">
@@ -186,23 +187,23 @@
     </div>
 </section>
 
-<section class="mbr-section article content12 cid-saowC113bE" id="content12-2t">
+<section class="mbr-section article content12 cid-s9P4cGMy3W" id="content12-25">
      
 
     <div class="container">
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style display-7">
                 <ul>
-                    <li><strong>TAKE-OFF</strong> -&nbsp;</li>
-                    <li><strong>LANDING</strong> -&nbsp;</li>
-                    <li><strong>FLYING</strong> -&nbsp;</li><li><strong>HAZARDS</strong> -&nbsp;</li>
+                    <li><strong>TAKE-OFF</strong> - There is two take-offs, two different landowners and both accessible by 4x4 or high car recommended. One on the top has a concrete hard floor which is quite smooth for the kit. The lower one accept more NNW crosswinds, it is a rough terrain, typical from Morocco, mind your line around the rocks and picking various plants!</li>
+                    <li><strong>LANDING</strong> - landing can be done on the ridge, at the take off and the official bottom landing is by Gîte d'Ahmed and Latifa, the land in between the road from Marrakech/Lalla Takerkouste when it splits in two.&nbsp;</li>
+                    <li><strong>FLYING</strong> - Aguergour works mainly due to the sun and the high Atlas pull (anabatic winds), typical mountain settings. It is a soaring and thermic site. There are some thermal trigger points where it always works. The main ridge faces NW but there is a valley at the end of the ridge on the right of the take with a ridge facing NNW and also N which works well for few kilometres of soaring. The so called Magic Mountains are located the other side of the valley, they mainly work with thermals. At night, katabatic winds dominate.<br>Legally, this site definitely requires an flight authorisation from the CAA. <a href="rules.html" class="text-primary">More info...</a></li><li><strong>HAZARDS</strong> - The main hazard for this site is the <strong>major powerlines crossing</strong> the landscape, pilots have to fly over them to access to the bottom landing. Extra care must be taken while ridge soaring to keep enough height when it gets lighter to be able to cross those powerlines.&nbsp;<br>The low land of Aguergour is a quite dry area part of the Agafay desert, <strong>dust devils</strong> are regularly observed especially when hot and dry weather - even in winter!</li>
                 </ul>
             </div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section article content10 cid-sapg6KXuoT" id="content10-3h">
+<section class="mbr-section article content10 cid-sapfi47bQL" id="content10-3e">
     
      
 
@@ -210,13 +211,13 @@
         <div class="inner-container" style="width: 66%;">
             <hr class="line" style="width: 25%;">
             <div class="section-text align-center mbr-white mbr-fonts-style display-5"><strong>
-                    EMERGENCY INFO</strong><br>Ambulance number:&nbsp;<br>Nearest hospital:&nbsp;</div>
+                    EMERGENCY INFO</strong><br><strong>Ambulance number:</strong> +21261-555-1046<br><strong>Gendarme number:</strong>&nbsp;<br><strong>Nearest hospital:</strong> Marrakech</div>
             <hr class="line" style="width: 25%;">
         </div>
     </div>
 </section>
 
-<section class="mbr-section info1 cid-saowC1nI72" id="info1-2u">
+<section class="mbr-section info1 cid-s9P7ItFUS2" id="info1-26">
 
     
 
@@ -294,7 +295,7 @@
             </div>
         </div>
     </div>
-</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/y" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">Built with Mobirise <a href="https://mobirise.site/u" style="color:#aaa;">web</a> theme</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/datatables/jquery.data-tables.min.js"></script>  <script src="assets/datatables/data-tables.bootstrap4.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/l" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/t" style="color:#aaa;">Made</a> with Mobirise web template</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/datatables/jquery.data-tables.min.js"></script>  <script src="assets/datatables/data-tables.bootstrap4.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
   
   
 </body>

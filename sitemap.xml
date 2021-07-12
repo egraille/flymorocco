@@ -6,9 +6,6 @@
 		<loc>http://flyatlas.ma/rules.html</loc>
 	</url>
 	<url>
-		<loc>http://flyatlas.ma/atlas.html</loc>
-	</url>
-	<url>
 		<loc>http://flyatlas.ma/aguergour.html</loc>
 	</url>
 	<url>
@@ -42,15 +39,18 @@
 		<loc>http://flyatlas.ma/emergencies.html</loc>
 	</url>
 	<url>
-		<loc>http://flyatlas.ma/page15.html</loc>
-	</url>
-	<url>
-		<loc>http://flyatlas.ma/page16.html</loc>
-	</url>
-	<url>
-		<loc>http://flyatlas.ma/page17.html</loc>
-	</url>
-	<url>
 		<loc>http://flyatlas.ma/aglou.html</loc>
+	</url>
+	<url>
+		<loc>http://flyatlas.ma/freeflyingmorocco.html</loc>
+	</url>
+	<url>
+		<loc>http://flyatlas.ma/plageblanche.html</loc>
+	</url>
+	<url>
+		<loc>http://flyatlas.ma/niddaigle.html</loc>
+	</url>
+	<url>
+		<loc>http://flyatlas.ma/legzira.html</loc>
 	</url>
 </urlset>
